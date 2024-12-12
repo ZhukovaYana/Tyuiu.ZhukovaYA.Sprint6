@@ -6,8 +6,10 @@ namespace Tyuiu.ZhukovaYA.Sprint6.Task0.V23.Lib
     {
         public double Calculate(int x)
         {
-            double res = Math.Log((x + 1) / (x + 2));
-            return Math.Round(res, 3);
+            double res;
+            res = Math.Log((double)(x + 1) / (double)(x + 2));
+           return Math.Round(res, 3);
+
         }
     }
 }
