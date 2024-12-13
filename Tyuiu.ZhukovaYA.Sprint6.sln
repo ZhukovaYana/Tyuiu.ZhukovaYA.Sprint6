@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.ZhukovaYA.Sprint6.Tas
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{11694C5F-DA14-4992-9249-5B5F0BC2A6C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZhukovaYA.Sprint6.Task1.V10", "Tyuiu.ZhukovaYA.Sprint6.Task1.V10\Tyuiu.ZhukovaYA.Sprint6.Task1.V10.csproj", "{1BBAF673-4A32-4FB4-A70E-F9EFB0233D87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.ZhukovaYA.Sprint6.Task1.V10", "Tyuiu.ZhukovaYA.Sprint6.Task1.V10\Tyuiu.ZhukovaYA.Sprint6.Task1.V10.csproj", "{1BBAF673-4A32-4FB4-A70E-F9EFB0233D87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{B7003BB6-E204-49DD-B806-0FF533DC15AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

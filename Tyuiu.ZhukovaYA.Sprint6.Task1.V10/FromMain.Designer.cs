@@ -196,7 +196,7 @@
             MaximizeBox = false;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Спринт 6 | Таск 1 | Вариант 14 | Боттер В.В.";
+            Text = "Спринт 6 | Таск 1 | Вариант 10 | Жукова Я.А.";
             groupBoxTaskZYA.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)pictureBoxTaskZYA).EndInit();
             groupBoxResultZYA.ResumeLayout(false);
