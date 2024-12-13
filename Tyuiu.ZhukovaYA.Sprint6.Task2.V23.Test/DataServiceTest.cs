@@ -1,7 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using Tyuiu.ZhukovaYA.Sprint6.Task2.V23.Lib;
-
+using Tyuiu.ZhukovaYA.Sprint6.Task2.V23.Lib.WorkingVersion;
 namespace Tyuiu.ZhukovaYA.Sprint6.Task2.V23.Test
 {
     [TestClass]

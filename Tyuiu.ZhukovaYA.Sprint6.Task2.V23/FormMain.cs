@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Tyuiu.ZhukovaYA.Sprint6.Task2.V23.Lib;
+using Tyuiu.ZhukovaYA.Sprint6.Task2.V23.Lib.WorkingVersion;
 
 namespace Tyuiu.ZhukovaYA.Sprint6.Task2.V23
 {

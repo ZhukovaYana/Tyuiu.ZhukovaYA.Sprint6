@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные со сборкой.
-[assembly: AssemblyTitle("Tyuiu.ZhukovaYA.Sprint6.Task2.V23.Lib")]
+[assembly: AssemblyTitle("Tyuiu.ZhukovaYA.Sprint6.Task2.V23.Lib.WorkingVersion")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Tyuiu.ZhukovaYA.Sprint6.Task2.V23.Lib")]
+[assembly: AssemblyProduct("Tyuiu.ZhukovaYA.Sprint6.Task2.V23.Lib.WorkingVersion")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("ccbfecf6-474b-43b6-b0a0-a8089d20cabb")]
+[assembly: Guid("d6d2d3de-645a-449b-85e7-777b2259851f")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

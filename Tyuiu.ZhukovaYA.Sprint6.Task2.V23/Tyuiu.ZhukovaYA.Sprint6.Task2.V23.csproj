@@ -85,9 +85,9 @@
     <None Include="Resources\Без названия %281%29.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.ZhukovaYA.Sprint6.Task2.V23.Lib\Tyuiu.ZhukovaYA.Sprint6.Task2.V23.Lib.csproj">
-      <Project>{CCBFECF6-474B-43B6-B0A0-A8089D20CABB}</Project>
-      <Name>Tyuiu.ZhukovaYA.Sprint6.Task2.V23.Lib</Name>
+    <ProjectReference Include="..\Tyuiu.ZhukovaYA.Sprint6.Task2.V23.Lib.WorkingVersion\Tyuiu.ZhukovaYA.Sprint6.Task2.V23.Lib.WorkingVersion.csproj">
+      <Project>{d6d2d3de-645a-449b-85e7-777b2259851f}</Project>
+      <Name>Tyuiu.ZhukovaYA.Sprint6.Task2.V23.Lib.WorkingVersion</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
